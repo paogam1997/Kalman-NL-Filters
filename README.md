@@ -37,6 +37,9 @@ In questa cartella sono presenti vari script Matlab, per eseguire il progetto è
 
 ° Tutti gli altri script presenti servono per effettuare i vari grafici e simulazioni per i vari filtri EKF, UKF e Smoother. 
 
+Please contact me privately if you would like a copy of the project pdf.
+
+
 ° "Matrici linearizzato" è servito per trovare la espressione analitica dei jacobiani ma è obsoleto.
 
 ° "EKF_outliers" può essere pure ignorato in quanto è stato il banco di prova per la sezione 8
