@@ -1,5 +1,5 @@
-ESAME IDENTIFICAZIONE SISTEMI INCERTI - PROGETTO A - DOPPIO PENDOLO INVERSO
-STUDENTE: PAOLO GAMBINO 
+IDENTIFICAZIONE SISTEMI INCERTI - DOPPIO PENDOLO INVERSO
+STUDENTE: PAOLO  
 
 In questa cartella sono presenti vari script Matlab, per eseguire il progetto è sufficente aprire solo quello denominato come
 "Progetto_ISI_finale", tutti gli altri verranno eseguiti automaticamente all'interno di questo, anche il Simulink si aprirà da solo.
